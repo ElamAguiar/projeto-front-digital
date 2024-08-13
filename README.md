@@ -33,7 +33,7 @@ Este desafio faz parte da formação **Desenvolvedor Web Full Stack** que é um 
 <h4>1. Clonagem do Repositório</h4>
 
 ```bash
-git clone https://github.com/marllonmendez/digital-store.git
+git clone https://github.com/ElamAguiar/digital-store.git
 ```
 
 <h4>2. Instalação de Dependências</h4>
