@@ -4,8 +4,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-C92071)](https://opensource.org/licenses/MIT)
 [![Typescript Version](https://img.shields.io/badge/Typescript-5%2B-C92071)](https://www.typescriptlang.org/)
-[![GitHub repo size](https://img.shields.io/github/repo-size/marllonmendez/stories?color=C92071)]()
-[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/marllonmendez/stories?color=C92071)]()
+[![GitHub repo size](https://img.shields.io/github/repo-size/ElamAguiar/stories?color=C92071)]()
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/ElamAguiar/stories?color=C92071)]()
 
 [![React.js](https://img.shields.io/badge/React-C92071?style=for-the-badge&logo=react&logoColor=white)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-C92071?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -22,7 +22,7 @@ Este desafio faz parte da formação **Desenvolvedor Web Full Stack** que é um 
 
 ### Branches
 
-- **main:** Configurada para produção, integrando com os dados reais do back-end.
+- **main:** Configurada para produção, integrando com os dados Similares do back-end.
 - **develop:** Configurada com dados simulados (mock) para uma prévia do funcionamento da aplicação.
 
 
